@@ -5,4 +5,4 @@ from . import models
 
 # Register your models here.
 
-admin.directhory.register(models.Directory)
+admin.site.register(models.Directory)
